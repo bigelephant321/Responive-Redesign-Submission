@@ -1,0 +1,283 @@
+h1 {
+    color: rgb(32, 151, 230);
+    text-align: center;
+    font-size: 50px;
+}
+
+body {
+    background-color:bisque;
+}
+
+.intro {
+    display: flex;
+    align-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+
+
+
+.ssContainer {
+    flex: 1 1 auto;
+    width: 50%;
+    border: 3px solid rgb(160, 189, 207);
+    border-radius: 5px;;
+    padding: 10px;
+    align-content: center;
+   
+}
+
+.ss {
+    max-width:100%;
+    max-height:100%;
+}
+
+.ssText {
+    text-align: center;
+    color:rgb(36, 35, 35);
+    font-size: 20px;
+}
+
+.usability {
+    width: 400px;
+    flex: 0 0 auto;
+    border: 3px solid rgb(160, 189, 207);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.uTitle {
+    text-align: center;
+    color:rgb(59, 59, 59);
+    font-size: 30px;
+}
+
+.accessibility {
+    width: 400px;
+    flex: 0 0 auto;
+    border: 3px solid rgb(160, 189, 207);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.aTitle {
+    text-align: center;
+    color: rgb(59, 59, 59);
+    font-size: 30px;
+}
+
+.aList {
+    font-size: 20px;
+    color: rgb(59, 59, 59);
+}
+
+.uList {
+    font-size: 20px;
+    color: rgb(59, 59, 59);
+}
+
+h2 {
+    color: rgb(32, 151, 230);
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+    top: 50px;
+}
+.styleContainer {
+    margin: auto;
+    position: relative;
+    top: 50px;
+    width: 50%;
+    border: 3px solid rgb(160, 189, 207);
+    border-radius: 5px;;
+    padding: 10px;
+   
+}
+
+.style {
+    max-width:100%;
+    max-height:100%;
+}
+
+.styleText {
+    text-align: center;
+    color:rgb(36, 35, 35);
+    font-size: 20px;
+}
+
+h3 {
+    color: rgb(32, 151, 230);
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+    top: 50px;
+}
+
+.dWireframes {
+    position: relative;
+    top: 50px;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    
+}
+
+.dLow {
+    width: 700px;
+    flex: 0 0 auto;
+    border: 3px solid rgb(160, 189, 207);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.dLowIm {
+    max-width:100%;
+    max-height:100%;
+}
+
+.dLowText {
+    text-align: center;
+    color:rgb(59, 59, 59);
+    font-size: 30px;
+}
+
+.dHi {
+    width: 700px;
+    flex: 0 0 auto;
+    border: 3px solid rgb(160, 189, 207);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.dHiIm {
+    max-width:100%;
+    max-height:100%;
+}
+
+.dHiText {
+    text-align: center;
+    color: rgb(59, 59, 59);
+    font-size: 30px;
+}
+
+.tWireframes {
+    position: relative;
+    top: 50px;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    
+}
+
+.tLow {
+    width: 700px;
+    flex: 0 0 auto;
+    border: 3px solid rgb(160, 189, 207);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.tLowIm {
+    max-width:100%;
+    max-height:100%;
+}
+
+.tLowText {
+    text-align: center;
+    color:rgb(59, 59, 59);
+    font-size: 30px;
+}
+
+.tHi {
+    width: 700px;
+    flex: 0 0 auto;
+    border: 3px solid rgb(160, 189, 207);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.tHiIm {
+    max-width:100%;
+    max-height:100%;
+}
+
+.tHiText {
+    text-align: center;
+    color: rgb(59, 59, 59);
+    font-size: 30px;
+}
+
+.pWireframes {
+    position: relative;
+    top: 50px;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    
+}
+
+.pLow {
+    width: 700px;
+    flex: 0 0 auto;
+    border: 3px solid rgb(160, 189, 207);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.pLowIm {
+    max-width:100%;
+    max-height:100%;
+}
+
+.pLowText {
+    text-align: center;
+    color:rgb(59, 59, 59);
+    font-size: 30px;
+}
+
+.pHi {
+    width: 500px;
+    flex: 0 0 auto;
+    border: 3px solid rgb(160, 189, 207);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.pHiIm {
+    max-width:100%;
+    max-height:100%;
+}
+
+.pHiText {
+    text-align: center;
+    color: rgb(59, 59, 59);
+    font-size: 30px;
+}
+
+.redesign {
+    margin: auto;
+    position: relative;
+    top: 50px;
+    width: 50%;
+    border: 3px solid rgb(160, 189, 207);
+    border-radius: 5px;;
+    padding: 10px;
+   
+}
+
+.redesignIm {
+    max-width:100%;
+    max-height:100%;
+}
+
+.redesignText {
+    text-align: center;
+    color:rgb(36, 35, 35);
+    font-size: 20px;
+}
